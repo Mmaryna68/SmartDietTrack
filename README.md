@@ -7,7 +7,7 @@ https://www.figma.com/file/FBaI8hSPn5Exv6TCKNzXxh/Healthy-Eating-Template?type=d
 
 Design was developed using a free Figma template https://www.figma.com/file/NzUxmldLBgTid1UN0AiwJF/Agriculture-Webflow-Website-Template-(Community)?type=design&node-id=2-9967&mode=design&t=26za1y9YxPiBUaVe-0
 
-## Website Description
+## Website Description 
 ![Снимок экрана 2023-09-01 в 3 36 35 PM](https://github.com/Mmaryna68/SmartDietTrack/assets/119791149/fa7eda75-f387-4572-ac6e-57caceaae962)
 ![Снимок экрана 2023-09-01 в 3 37 05 PM](https://github.com/Mmaryna68/SmartDietTrack/assets/119791149/00aa67a3-3d6a-4af6-8b25-923d641c5b7c)
 ![Снимок экрана 2023-09-01 в 3 37 18 PM](https://github.com/Mmaryna68/SmartDietTrack/assets/119791149/06981603-f327-4d2a-8f07-40b2053a81b7)
